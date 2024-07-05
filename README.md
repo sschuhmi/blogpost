@@ -6,10 +6,9 @@ Udacity´s Nanodegree Project within the Data Science Nanodegree.
 1. [Project Motivation](#motivation)
 2. [Survey Data](#surveydata)
 3. [Provided Files](#files)
-2. [Installation](#installation)
-
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+4. [Installation](#installation)
+5. [Results](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Project Motivation <a name="motivation"></a>
 
@@ -30,10 +29,6 @@ Further information about the original dataset can be found here at the Stack Ov
 
 (list files here)
 
-# Results <a name="results"></a>
-
-The main findings of the code can be found at the post available here.
-
 ## Installation & Libraries <a name="installation"></a>
 
 To analyze the data, I used Python (version 3.9.19) in combination with Jupyter Notebooks (version 6.4.5). The code is provided within the ipynb-File and should run on any Python 3 version (3.0.* or higher) without any issues. It was tested using the Anaconda distribution of Python.</br>
@@ -49,6 +44,10 @@ Here are the additional Python libraries used within this project:
 
 You will need to download Stackoverflow’s 2017 Annual Developer Survey and put it in your specific folder.</br> 
 You can find the data to download [here](https://insights.stackoverflow.com/survey). </br>
+
+# Results <a name="results"></a>
+
+The main findings of the code can be found at the post available here.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
