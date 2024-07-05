@@ -27,7 +27,12 @@ Further information about the original dataset can be found here at the Stack Ov
 
 ## Provided Files <a name="files"></a>
 
-(list files here)
+The following files are provided within this project:
+<ul>
+  <li><b>BlogPost.ipynb:</b> Jupyter Notebook containing the Python code for the analysis</li>
+  <li><b>BlogPost.hmtl:</b> HTML-Export of the Jupyter Notebook</li>
+  <li><b>README.md:</b> This file</li>
+</ul>
 
 ## Installation & Libraries <a name="installation"></a>
 
