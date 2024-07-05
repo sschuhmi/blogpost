@@ -1,7 +1,7 @@
 ## Write a Data Science blog post
 Udacity´s Nanodegree Project within the Data Science Nanodegree.
 
-# Table of Contents
+### Table of Contents
  
 1. [Project Motivation](#motivation)
 2. [Survey Data](#surveydata)
