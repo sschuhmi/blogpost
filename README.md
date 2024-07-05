@@ -1,7 +1,7 @@
-# Write a Data Science blog post
+## Write a Data Science blog post
 Udacity´s Nanodegree Project within the Data Science Nanodegree.
 
-### Table of Contents
+# Table of Contents
  
 1. [Project Motivation](#motivation)
 2. [Survey Data](#surveydata)
@@ -25,7 +25,7 @@ The survey contains of the following two CSV files:
 </ul>
 Further information about the original dataset can be found here at the Stack Overflow page: [Stack Overflow Developer Survey 2017](https://survey.stackoverflow.co/2017)
 
-# Provided Files <a name="files"></a>
+## Provided Files <a name="files"></a>
 
 (list files here)
 
@@ -45,7 +45,7 @@ Here are the additional Python libraries used within this project:
 You will need to download Stackoverflow’s 2017 Annual Developer Survey and put it in your specific folder.</br> 
 You can find the data to download [here](https://insights.stackoverflow.com/survey). </br>
 
-# Results <a name="results"></a>
+## Results <a name="results"></a>
 
 The main findings of the code can be found at the post available here.
 
