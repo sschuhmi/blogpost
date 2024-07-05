@@ -1,5 +1,6 @@
-## Write a Data Science blog post
-Udacity´s Nanodegree Project within the Data Science Nanodegree.
+## Project "Write a Data Science blog post"
+
+This project is included within Udacity´s Data Scientist Nanodegree Program.
 
 ### Table of Contents
  
