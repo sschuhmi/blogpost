@@ -14,7 +14,7 @@ This project is included within Udacity´s Data Scientist Nanodegree Program.
 ## Project Motivation <a name="motivation"></a>
 
 To write a Data Science blog post represents a part of the Udacity Data Scientists Nanodegree Program.</br> 
-Therefore, I analyzed Stack Overflow’s Annual Developer Survey data from the year 2017.
+Therefore, I analyzed Stack Overflow’s Annual Developer Survey data from the year 2017. 
 
 ## Survey Data <a name="surveydata"></a>
 
@@ -53,7 +53,8 @@ You can find the data to download [here](https://insights.stackoverflow.com/surv
 
 ## Results <a name="results"></a>
 
-The main findings of the code can be found at the post available here.
+The analysis focused on questions concerning the preferred work starts of developers.</br>
+The main findings of the code can be found in my blog post available [here](https://sschuhmi.github.io/2024/07/05/BlogPost.html) at GitHub pages.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
