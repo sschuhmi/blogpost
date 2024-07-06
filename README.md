@@ -14,7 +14,7 @@ This project is included within Udacity´s Data Scientist Nanodegree Program.
 ## Project Motivation <a name="motivation"></a>
 
 To write a Data Science blog post represents a part of the Udacity Data Scientists Nanodegree Program.</br> 
-Therefore, I analyzed Stack Overflow’s Annual Developer Survey data from the year 2017.
+Therefore, I analyzed Stack Overflow’s Annual Developer Survey data from the year 2017. 
 
 ## Survey Data <a name="surveydata"></a>
 
