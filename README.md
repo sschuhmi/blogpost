@@ -24,7 +24,7 @@ The survey contains of the following two CSV files:
   <li>The schema of the survey data, containing information about the more than 150 columns (i.e., questions) used within the set
   <li>The survey results themselves, containing thousands of individual answers to the survey questions 
 </ul>
-Further information about the original dataset can be found at StackOverflow: [https://survey.stackoverflow.co/2017]
+Further information about the original dataset can be found at StackOverflow: (https://survey.stackoverflow.co/2017)
 
 ## Provided Files <a name="files"></a>
 
